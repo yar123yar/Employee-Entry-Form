@@ -67,7 +67,7 @@ This project involves the creation of a user-friendly form in Excel to collect a
 -Data Integrity: Reduces errors through validation and automation.
 -Ease of Use: Intuitive interface ensures quick adoption without extensive training.
 
-## 4.Future Improvements
+## Future Improvements
 -Integration with a database for larger organizations.
 -Adding analytics dashboards to visualize employee data.
 -Extending validation checks for additional security and accuracy.
