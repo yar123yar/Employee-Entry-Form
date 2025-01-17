@@ -4,7 +4,7 @@
 
 This project involves the creation of a user-friendly form in Excel to collect and manage employee information efficiently. The form is designed to streamline data entry processes while ensuring the accuracy and validity of the data provided
 
-
+![image_alt](https://github.com/yar123yar/Employee-Entry-Form/blob/main/Images/form.png?raw=true)
 
 ## Features
 
