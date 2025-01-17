@@ -30,6 +30,8 @@ This project involves the creation of a user-friendly form in Excel to collect a
 18.Bonus Eligibility	
 19. Overtime Hours
 
+![image_alt](https://github.com/yar123yar/Employee-Entry-Form/blob/main/Images/spreadsheet.png?raw=true)
+
 ### 2.Validation Checks:
 
 - Date Format: Ensures the date fields (e.g., Date of Birth, Date of Joining) are entered in the correct format.
